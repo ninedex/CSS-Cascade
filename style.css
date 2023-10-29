@@ -1,0 +1,18 @@
+/* Last Rule */
+/* p{
+    color: red;
+}
+p{
+    color: green;
+}
+p{
+    color: blue;
+} */
+
+/* Specificity */
+*{
+    color: red;
+}
+p{
+    color: green;
+}
